@@ -1,3 +1,6 @@
+title: Welcome to Laura’s homepage!
+description: sharing Python exercises from refresher course
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Laura-CB/Laura-CB.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
